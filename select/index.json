@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "bouquet",
+  "base_artist": "Ichiko Aoba",
+  "createdAt": "2026-03-06T05:20:56.937174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bouquet Of Roses - Digitally Remastered for Buddha Records: 2000",
+      "artist": "Eddy Arnold, The Tennessee Plowboy and his Guitar",
+      "has_synced": false,
+      "path": "select/01_Bouquet_Of_Roses_-_Digitally_Remastered_for_Buddha_Records__2000_Eddy_Arnold,_The_Tennessee_Plowboy_and_his_Guitar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bouquet of Roses (Digitally Remastered for Buddha Records: 2000)",
+      "artist": "The Tennessee Plowboy and His Guitar",
+      "has_synced": false,
+      "path": "select/02_Bouquet_of_Roses_(Digitally_Remastered_for_Buddha_Records__2000)_The_Tennessee_Plowboy_and_His_Guitar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Bouquet",
+      "artist": "Ani DiFranco",
+      "has_synced": true,
+      "path": "select/03_This_Bouquet_Ani_DiFranco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bouquet For A Siren",
+      "artist": "Sebadoh",
+      "has_synced": true,
+      "path": "select/04_Bouquet_For_A_Siren_Sebadoh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Sad Bouquet",
+      "artist": "The Ark",
+      "has_synced": true,
+      "path": "select/05_This_Sad_Bouquet_The_Ark.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bouquet of Roses",
+      "artist": "Eddy Arnold",
+      "has_synced": false,
+      "path": "select/06_Bouquet_of_Roses_Eddy_Arnold.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bouquet",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/07_Bouquet_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Cheap Bouquet",
+      "artist": "Pierce the Veil",
+      "has_synced": true,
+      "path": "select/08_The_Cheap_Bouquet_Pierce_the_Veil.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLUE CLAPPER - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/09_BLUE_CLAPPER_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dreaming Days - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/10_Dreaming_Days_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STARDUST SONG - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/11_STARDUST_SONG_-_Bouquet_ver._hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiny Smily Story - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/12_Shiny_Smily_Story_-_Bouquet_ver._hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "今宵はHalloween Night! - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/13_今宵はHalloween_Night!_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夢見る空へ - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/14_夢見る空へ_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "大切フォトグラフ - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/15_大切フォトグラフ_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "百花繚乱花吹雪 - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/16_百花繚乱花吹雪_-_Bouquet_ver._hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bouquet Of Blues",
+      "artist": "Peggy Lee",
+      "has_synced": false,
+      "path": "select/17_Bouquet_Of_Blues_Peggy_Lee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bouquet",
+      "artist": "青葉市子",
+      "has_synced": false,
+      "path": "select/pl_01_bouquet_青葉市子.txt"
+    }
+  ]
+}
